@@ -1,5 +1,5 @@
-# Shared Google Colaboratory Notebooks
-## A Repo to store and share the Google Colaboratory Notebooks that I have created/modified
+# 📔 Shared Google Colaboratory Notebooks 📔
+### A Repo to store and share the Google Colaboratory Notebooks that I have created/modified 💻📔
 
 ### NLP/NLG Colabs 🔤
 
