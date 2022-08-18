@@ -1,7 +1,7 @@
 # Shared Google Colaboratory Notebooks
 ## A Repo to store and share the Google Colaboratory Notebooks that I have created/modified
 
-### NLP/NLG Colabs
+### NLP/NLG Colabs 🔤
 
 
 - [Basic self attention]()
@@ -22,7 +22,7 @@
 - [toxicity simple transformers]()
 
 
-### Computer Vision Colabs
+### Computer Vision Colabs 🖼️
 
 - [Pretrain ViT HF]()
 - [Fine tune ConvNeXT with HF trainer beans dataset]()
@@ -31,7 +31,7 @@
 - [keras ocr custom v2]()
 
 
-### GANs/Misc
+### GANs/Misc 🧬
 
 - [3D Ken Burns]()
 - [3D Photo Inpainting]()
@@ -44,27 +44,27 @@
 - [FUNIT MonsterMirror  v1]()
 - [generate colors from text]()
 
-### Streamlit
+### Streamlit ✨
 
 - [Create streamlit app]()
 - [EDA Classifier Streamlit]()
 
 
-### Tutorials
+### Tutorials 👩‍🏫
 
 - [Huggingface pipelines demo]()
 - [Using Spanish BERT fine tuned for Q&A pipelines]()
 - [transformers summarizer pipeline]()
 
 
-### UI/UX
+### UI/UX 💄
 
 - [GPT2 with Javascript interface POC]()
 - [GPT2 with JS UI]()
 
 
 
-### Other
+### Other 🦘
 
 - GLIDE
 - Grover requester
