@@ -1,6 +1,11 @@
 # 📔 Shared Google Colaboratory Notebooks 📔
 ### A Repo to store and share the Google Colaboratory Notebooks that I have created/modified 💻📔
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=mrm8488/shared_colab_notebooks&type=Timeline)](https://star-history.com/#mrm8488/shared_colab_notebooks&Timeline)
+
+
 ### NLP/NLG Colabs 🔤
 
 
@@ -73,6 +78,3 @@
 - Sematinc Search Spanish
 - Transformer positional encoding graph
 - transformers summarizer pipeline
-
-
-
